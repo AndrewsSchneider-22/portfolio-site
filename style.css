@@ -336,7 +336,7 @@ body {
   }
   
   /* Desktop and larger devices (min-width: 992px) */
-  @media (min-width: 992px) {
+   @media (min-width: 992px) {
     body {
       font-size: 20px;
     }
@@ -351,11 +351,11 @@ body {
     }
   
     /* Container styles */
-   .container {
+   /* .container {
       max-width: 70%;
       margin: 60px auto;
       padding: 60px;
-    }
+    } */
   
     /* Nav bar styles */
     nav {
@@ -376,5 +376,5 @@ body {
     nav a {
       font-size: 20px;
     }
-  }
+}
 
